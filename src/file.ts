@@ -74,5 +74,3 @@ export async function remove(path: string): Promise<boolean> {
     });
   });
 }
-
-//"./node_modules/ts-jest/preprocessor.js"
