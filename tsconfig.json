@@ -6,7 +6,8 @@
         "preserveConstEnums": true,
         "outDir": "build",
         "sourceMap": true,
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
+        "ret"
     },
     "include": [
         "src/**/*"
